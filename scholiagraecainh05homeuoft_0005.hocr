@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./scholiagraecainh05homeuoft_0005.png"; bbox 0 0 1970 3201; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 561 1140 1261 1197">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 561 1140 1261 1197">
+     <span class='ocr_line' id='line_1_1' title="bbox 561 1140 1261 1197; baseline 0 -1"><span class='ocrx_word' id='word_1_1' title='bbox 561 1141 642 1196; x_wconf 76' lang='lat' dir='ltr'><strong>SC</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 654 1141 898 1196; x_wconf 87' lang='lat' dir='ltr'>HOLIA</span> <span class='ocrx_word' id='word_1_3' title='bbox 947 1140 1261 1197; x_wconf 81' lang='lat' dir='ltr'><strong>GRAECA</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 247 1508 1571 1574">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 247 1508 1571 1574">
+     <span class='ocr_line' id='line_1_2' title="bbox 247 1508 1571 1574; baseline 0.001 -2"><span class='ocrx_word' id='word_1_4' title='bbox 247 1509 553 1573; x_wconf 79' lang='lat' dir='ltr'><strong>HOMERI</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 621 1508 961 1572; x_wconf 78' lang='lat' dir='ltr'><strong>ILIADEM</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1031 1509 1571 1574; x_wconf 84' lang='lat' dir='ltr'><strong>TOWNLEYANA</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 789 1723 1019 1751">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 789 1723 1019 1751">
+     <span class='ocr_line' id='line_1_3' title="bbox 789 1723 1019 1751; baseline 0.004 -1"><span class='ocrx_word' id='word_1_7' title='bbox 789 1723 1019 1751; x_wconf 74' lang='lat' dir='ltr'>RECENSUIT</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 648 1900 1164 1942">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 648 1900 1164 1942">
+     <span class='ocr_line' id='line_1_4' title="bbox 648 1900 1164 1942; baseline 0.006 -3"><span class='ocrx_word' id='word_1_8' title='bbox 648 1900 685 1938; x_wconf 89' lang='lat' dir='ltr'><em>E</em></span> <span class='ocrx_word' id='word_1_9' title='bbox 691 1901 875 1941; x_wconf 72' lang='lat' dir='ltr'><em>RNEST</em></span> <span class='ocrx_word' id='word_1_10' title='bbox 883 1901 919 1941; x_wconf 84' lang='lat' dir='ltr'><em>U</em></span> <span class='ocrx_word' id='word_1_11' title='bbox 917 1901 949 1942; x_wconf 75' lang='lat' dir='ltr'><strong><em>S</em></strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 984 1901 1164 1942; x_wconf 60' lang='lat' dir='ltr'><em>MAASS&#39;</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
